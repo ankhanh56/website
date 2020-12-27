@@ -1,7 +1,16 @@
 body{
+    text-align: center;
+    background-color: pink;
     width: 100%;
     height: 100%;
-    background-color: aliceblue;
-};
+}
+
+.bk {
+    background-image: url("./img/schoolold.jpg");
+    width: 400px;
+    height: 200px;
+    background-position: center, left;
+    background-repeat: no-repeat;
+}
 
 
